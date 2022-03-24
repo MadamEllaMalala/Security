@@ -1,1 +1,2 @@
 
+document.querySelector("*").remove()
